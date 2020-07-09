@@ -1,0 +1,7 @@
+numpy
+ipywidgets
+nbinteract
+sympy
+timeit
+fractions
+Ipython.display
